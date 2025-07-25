@@ -169,14 +169,4 @@ math_service/
 - Easy to extend: just add new service logic + route
 - Can be integrated with Redis (caching), Kafka (logging), or Prometheus (monitoring)
 
----
 
-## 📜 License
-
-This project is licensed for demonstration and educational purposes.
-
----
-
-## ✍️ Author
-
-Developed as part of a technical interview assignment. Prepared to be production-ready with extensibility in mind.
